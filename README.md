@@ -60,7 +60,7 @@
 
 14. 填写类名(L)和基名(B)，
 
-    > [!WARNING]
+    > [!NOTE]
     >
     > 类名(L)：C+你想要的名称。例如：CESPlugIn（C-EuroScope-PlugIn）
     >
